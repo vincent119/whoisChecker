@@ -1,0 +1,8 @@
+# 測試各國頂級域名
+google.com        # 美國 .com
+google.co.uk      # 英國
+google.de         # 德國
+google.fr         # 法國
+google.jp         # 日本
+google.com.ph   # 菲律賓 - 可能無法查詢
+# example.ph      # 菲律賓域名通常查詢困難

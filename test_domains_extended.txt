@@ -1,0 +1,15 @@
+google.com
+facebook.com
+microsoft.com
+apple.com
+amazon.com
+github.com
+stackoverflow.com
+reddit.com
+youtube.com
+twitter.com
+linkedin.com
+netflix.com
+wikipedia.org
+ebay.com
+paypal.com
