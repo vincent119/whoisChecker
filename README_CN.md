@@ -17,7 +17,7 @@
 ### 安裝
 
 ```bash
-git clone https://github.com/your-username/whoisChecker.git
+git clone https://github.com/vincent119/whoisChecker.git
 cd whoisChecker
 go mod tidy
 go build -o whoisChecker ./cmd/main.go
