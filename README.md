@@ -1,3 +1,5 @@
+[中文版](./README_CN.md)
+
 # 🔍 WhoisChecker
 
 An efficient WHOIS domain query tool that supports concurrent queries, multiple output formats, and intelligent retry mechanisms.
